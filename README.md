@@ -70,3 +70,186 @@
 
 
 </html>
+
+
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family:"Merriweather", serif;
+  font-size: 130%;
+}
+h1{
+  font-size: 5.625rem;
+  line-height: 2;
+  margin: 100px auto 100 auto ;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Montserrat' , sans-serif;
+  color: #66BFBF;
+}
+
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted #CEE5D0 5px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+  }
+
+a{
+color: #11999E;
+font-family:"Merriweather", serif;
+margin:10px 20px;
+text-decoration: 0;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+
+img{
+border-radius:8%
+}
+
+
+.top-container {
+background-color:#B9FFF8;
+position: relative;
+padding-top: 100px
+}
+
+.middle-container{
+margin: 100px 0;
+
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.pro{
+text-decoration: underline;
+}
+.contact-massage{
+  width: 40%;
+  margin: 40px;
+}
+
+.profile{
+  width: 30%;
+  margin: auto;
+}
+.top-cloud{
+position: absolute;
+right: 300px;
+margin: 40px auto 60px;
+}
+
+.bottom-cloud{
+position: absolute;
+left:250px;
+bottom: 300px;
+}
+
+.Samo {
+  width: 40%;
+  border-radius:50%;
+}
+
+.skill-row {
+width: 50%;
+margin:100px auto 100px auto;
+text-align: left;
+}
+
+
+.lorger222{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.chess{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.contact-me{
+  width: 40%;
+  margin:40px auto 60px;
+}
+
+.copyright{
+  color:#EAF6F6;
+  font-size:0.75rem;
+  padding: 20px 0;
+}
+
+.btn {
+   background: #11CCD4;
+   background-image: -webkit-linear-gradient(top, #11CCD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CCD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CCD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CCD4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CCD4, #11999E);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: arial;
+   font-size: 20px;
+   font-weight: 100;
+   padding:10px 20px 10px 20px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #FFFFFF;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4DC);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2BC4DC);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2BC4DC);
+   background-image: -o-linear-gradient(top, #30E3CB, #2BC4DC);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4DC);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
